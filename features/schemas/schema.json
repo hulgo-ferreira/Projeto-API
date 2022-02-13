@@ -1,0 +1,61 @@
+{
+    "description": "esquema do GET",
+    "type": "object",
+    "properties": {
+        "updated": {
+            "type": "number"
+        },
+        "country": {
+            "type": "string"
+        },
+        "id": {
+            "type": "number",
+            "description":"76"
+        },
+        "iso2": {
+            "type": "string"
+        },
+        "iso3": {
+            "type": "string"
+        },
+        "lat": {
+            "type": "number"
+        },
+        "long": {
+            "type": "number"
+        },
+        "cases": {
+            "type": "number"
+        },
+        "cases": {
+            "type": "number"
+        },
+        "todayCases": {
+            "type": "number"
+        },
+        "todayDeaths": {
+            "type": "number"
+        },
+        "recovered": {
+            "type": "number"
+        },
+        "active": {
+            "type": "number"
+        },
+        "critical": {
+            "type": "number"
+        },
+        "casesPerOneMillion": {
+            "type": "number"
+        },
+        "deathsPerOneMillion": {
+            "type": "number"
+        },
+        "tests": {
+            "type": "number"
+        },
+        "testsPerOneMillion": {
+            "type": "number"
+        }
+    }
+}
