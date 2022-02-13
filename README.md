@@ -78,17 +78,17 @@ cucumber feature/nome da feature desejada.feature
 └── info.json                - Arquivo usado pelo Json-server
 ```
 
-## Linguagens
+## Linguagem
 - Ruby
 
-## Gem Ruby
+## Gem utilizada no projeto
 - RSpec
 - HTTParty
 
 ## Ferramentas 
 - Cucumber
 
-## Metodologia Àgil
+## Técnica de desenvolvimento Àgil
 - BDD (Behavior Driven Development)
 
 
